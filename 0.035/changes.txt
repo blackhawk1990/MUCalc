@@ -1,0 +1,2 @@
+- nowy wyglad przedstawienia wynikow
+- obliczanie procentowych roznic pomiedzy wartoscia MU zapisana w pliku, a ta obliczona i przedstawienie tego poprzez zaznaczenie wiersza odpowiednim kolorem w okienku wynikow
