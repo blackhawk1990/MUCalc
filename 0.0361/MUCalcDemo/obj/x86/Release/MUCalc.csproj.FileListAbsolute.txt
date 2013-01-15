@@ -1,0 +1,20 @@
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\MUCalcDemo.exe.config
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\MUCalcDemo.exe.manifest
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\MUCalcDemo.application
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\MUCalcDemo.exe
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\MUCalcDemo.pdb
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\dicomcs.dll
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\log4net.dll
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\MUCalcDemo.Form1.resources
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\MUCalcDemo.Properties.Resources.resources
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\MUCalcDemo.exe.manifest
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\MUCalcDemo.application
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\MUCalcDemo.exe
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Release\MUCalcDemo.pdb
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\Data\PRIMUS 15MV\pdg.dat
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\Data\PRIMUS 15MV\wyd.dat
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\Data\PRIMUS 6MV\pdg.dat
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Release\Data\PRIMUS 6MV\wyd.dat
