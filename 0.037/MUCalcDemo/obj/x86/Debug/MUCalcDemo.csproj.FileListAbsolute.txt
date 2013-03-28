@@ -1,0 +1,39 @@
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.exe
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.pdb
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.Form1.resources
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.Properties.Resources.resources
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.exe
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.pdb
+D:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.exe.config
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.exe.config
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.exe
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.pdb
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.exe
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.pdb
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.Form1.resources
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.Properties.Resources.resources
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Moje projekty\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\EvilDICOM.Core.dll
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\Data\PRIMUS 15MV\pdg.dat
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\Data\PRIMUS 15MV\wyd.dat
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\Data\PRIMUS 6MV\pdg.dat
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\Data\PRIMUS 6MV\wyd.dat
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.exe.config
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.exe.manifest
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.application
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.exe
+G:\Praca inż\MUCalcDemo\MUCalcDemo\bin\Debug\MUCalcDemo.pdb
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.Form1.resources
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.Properties.Resources.resources
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.exe.manifest
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.application
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.exe
+G:\Praca inż\MUCalcDemo\MUCalcDemo\obj\x86\Debug\MUCalcDemo.pdb
